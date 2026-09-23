@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm José Matías González Valarezo</h1>
+<h1 align="center">Hi, I'm José Matias González Valarezo</h1>
 
 <p align="center">
   <b>Backend Engineer</b> · Node.js · TypeScript · Fastify · Microservices · AWS / Azure<br>
